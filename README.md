@@ -1,8 +1,9 @@
-# MeSH.db
+# Pubmed_small
 =======
 
-MeSH.db is an R package for using MeSH in R.
+Pipeline for converting .xml to .sqlite of Pubmed (PMC)
 
+![alt text]https://github.com/kokitsuyuzaki/Pubmed_small/fig2.003)
 
 To install this package run:
 
