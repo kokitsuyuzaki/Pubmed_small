@@ -1,7 +1,7 @@
-# Pubmed_small
+### Pubmed_small
 =======
 
-#Pipeline for converting .xml to .sqlite of Pubmed (PMC)
+### Pipeline for converting .xml to .sqlite of Pubmed (PMC)
 
 ![my image](fig2.003.jpg)
 
