@@ -5,7 +5,7 @@
 
 ![my image](fig2.003.jpg)
 
-#To convert .xml to .sqlite
+### To convert .xml to .sqlite
 
 At first, download XML files of Pubmed from http://www.ncbi.nlm.nih.gov/pmc/tools/ftp/ (articles.A-B.tar.gz, articles.C-H.tar.gz, articles.I-N.tar.gz and articles.O-Z.tar.gz)
 
